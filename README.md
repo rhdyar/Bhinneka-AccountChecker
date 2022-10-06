@@ -1,8 +1,8 @@
 # Bhinka-AccountChecker
 
-#git clone https://github.com/rhdyar/Bhinka-AccountChecker.git
-#pip install -r requirements.txt
-#python3 Bhineka.py
+<br>git clone https://github.com/rhdyar/Bhinka-AccountChecker.git</br>
+<br>npip install -r requirements.txt</br>
+<br>python3 Bhineka.py</br>
 
 
-#run with python 3.7++
+# run with python 3.7++
